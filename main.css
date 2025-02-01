@@ -30,3 +30,8 @@ body{
  border-radius: 20px;
  padding-inline: 30px;
 }
+
+img{
+  border-radius: 50%;
+  border: 1px sold red;
+}
