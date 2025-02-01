@@ -1,10 +1,10 @@
-*{
+* {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
 }
 @font-face {
-  font-family:"font1";
+  font-family: "font1";
   src: url(./assets/fonts/static/Inter-Bold.ttf);
 }
 @font-face {
@@ -15,33 +15,33 @@
   font-family: "font3";
   src: url(./assets/fonts/static/Inter-SemiBold.ttf);
 }
-html{
-  background-color:  hsl(0, 0%, 8%)
+html {
+  background-color: hsl(0, 0%, 8%);
 }
 
-body{
+body {
   background-color: hsl(0, 0%, 12%);
   color: hsl(0, 0%, 100%);
   width: 28%;
   height: fit-content;
-  margin-left:35%;
+  margin-left: 35%;
   margin-top: 170px;
- justify-items: center;
- border-radius: 20px;
- padding-inline: 30px;
+  justify-items: center;
+  border-radius: 20px;
+  padding-inline: 30px;
 }
 
-img{
+img {
   border-radius: 50%;
   margin-top: 50px;
   margin-bottom: 25px;
 }
 
-h2{
+h2 {
   border: 1px solid green;
   font-family: "font2";
   font-style: normal;
   font-weight: 400;
   letter-spacing: 0.5px;
-  
+  margin-bottom: 15px;
 }
