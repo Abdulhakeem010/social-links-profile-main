@@ -7,3 +7,11 @@
   font-family:"font1";
   src: url(./assets/fonts/static/Inter-Bold.ttf);
 }
+@font-face {
+  font-family: "font2";
+  src: url(./assets/fonts/static/Inter-Regular.ttf);
+}
+@font-face {
+  font-family: "font3";
+  src: url(./assets/fonts/static/Inter-SemiBold.ttf);
+}
