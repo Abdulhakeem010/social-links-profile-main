@@ -38,6 +38,7 @@ img{
 }
 
 h2{
+  border: 1px solid green;
   font-family: "font2";
   font-style: normal;
   font-weight: 400;
