@@ -22,7 +22,7 @@ html{
 body{
   background-color: hsl(0, 0%, 12%);
   color: hsl(0, 0%, 100%);
-  width: 30%;
+  width: 27%;
   height: fit-content;
   margin-left:35%;
   margin-top: 170px;
@@ -34,7 +34,7 @@ body{
 img{
   border-radius: 50%;
   margin-top: 50px;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
 
 h2{
