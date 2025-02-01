@@ -15,3 +15,6 @@
   font-family: "font3";
   src: url(./assets/fonts/static/Inter-SemiBold.ttf);
 }
+html{
+  background-color:  hsl(0, 0%, 8%)
+}
