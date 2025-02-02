@@ -72,3 +72,6 @@ ul {
   justify-items: center;
 }
 
+li{
+ background-color: hsl(0, 0%, 20%); 
+}
