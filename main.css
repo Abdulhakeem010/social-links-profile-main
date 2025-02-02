@@ -71,13 +71,16 @@ ul {
   line-height: 50px;
 }
 
-li{
- background-color: hsl(0, 0%, 20%); 
- color: hsl(0, 0%, 100%);
- border-radius: 15px;
- margin-block: 20px;
- width: 100%;
- padding-left: 140px;
- padding-right: 140px;
-
+li {
+  background-color: hsl(0, 0%, 20%);
+  color: hsl(0, 0%, 100%);
+  border-radius: 15px;
+  margin-block: 20px;
+  width: 100%;
+  padding-left: 140px;
+  padding-right: 140px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
