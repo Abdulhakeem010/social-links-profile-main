@@ -74,4 +74,8 @@ ul {
 
 li{
  background-color: hsl(0, 0%, 20%); 
+ margin-block: 20px;
+ padding-inline: 20px;
+ border-radius: 15px;
+ color: hsl(0, 0%, 100%);
 }
