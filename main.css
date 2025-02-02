@@ -94,5 +94,8 @@ li:active {
   background-color: indianred;
 }
 
-
+::selection{
+  background-color: hsl(200, 100%, 50%);
+  color: hsl(0, 0%, 100%);
+}
 
