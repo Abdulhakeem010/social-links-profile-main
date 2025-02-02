@@ -85,9 +85,14 @@ li {
   align-items: center;
 }
 
-li:hover {
+li:hover,li:focus {
   background-color:  hsl(75, 94%, 57%);
   color: hsl(0, 0%, 12%);
   cursor: pointer;
 }
+li:active {
+  background-color: indianred;
+}
+
+
 
