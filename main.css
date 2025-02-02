@@ -30,7 +30,7 @@ body {
   border-radius: 15px;
   padding-inline: 30px;
   padding-bottom: 20px;
-  font-family: "font2";
+  font-family: "font2" serif;
 }
 
 img {
@@ -70,7 +70,6 @@ ul {
   font-size: 14px;
   list-style-type: none;
   line-height: 50px;
-  /* justify-items: center; */
 }
 
 li{
