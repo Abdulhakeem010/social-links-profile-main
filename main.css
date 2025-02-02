@@ -38,14 +38,18 @@ img {
 }
 
 h2 {
-  border: 1px solid green;
   font-family: "font2";
   font-style: normal;
   font-weight: 400;
-  letter-spacing: 0.5px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
+  /* font-size: 30px; */
 }
 
 .p1{
   color: hsl(75, 94%, 57%);
+  font-family: "font3";
+  font-weight: 600;
+  font-style: normal;
+  font-size: 14px;
+  margin-bottom: 30px;
 }
