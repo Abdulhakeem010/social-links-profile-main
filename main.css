@@ -45,15 +45,30 @@ h2 {
   /* font-size: 30px; */
 }
 
-.p1{
+.p1 {
   color: hsl(75, 94%, 57%);
   font-family: "font3";
   font-weight: 600;
   font-style: normal;
   font-size: 14px;
+  margin-bottom: 25px;
+}
+
+.p2 {
+  font-family: "font2";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
   margin-bottom: 30px;
 }
 
-.p2{
-  
+ul {
+  font-family: "font1";
+  font-weight: 700;
+  font-style: normal;
+  font-size: 14px;
+  list-style-type: none;
+  line-height: 50px;
+  justify-items: center;
 }
+
